@@ -35,7 +35,7 @@ export default function Home({ allPostsData }: any) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyle.headingMd}>
-        <p>ShinCodeさんのUdemyでnext.jsを勉強中です。</p>
+        <p>（ブランチ切って編集）ShinCodeさんのUdemyでnext.jsを勉強中です。</p>
       </section>
       <section className={`${utilStyle.headingMd} ${utilStyle.padding1px}`}>
         <h2>エンジニアのブログ</h2>
